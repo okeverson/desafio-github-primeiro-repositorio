@@ -1,0 +1,5 @@
+ O Git é um sistema de controle distribuído gratuito e de código aberto.
+
+Link para download do Git: https://git-scm.com/downloads
+ Link para documentação do Git: https://git-scm.com/doc
+ 
